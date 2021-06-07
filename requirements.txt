@@ -33,7 +33,7 @@ pyparsing==2.4.7
 pytest==6.2.4
 pytest-base-url==1.4.2
 pytest-bdd==4.0.2
-pytest-playwright==0.1.1
+pytest-playwright==0.1.2
 requests==2.25.1
 six==1.16.0
 toml==0.10.2
