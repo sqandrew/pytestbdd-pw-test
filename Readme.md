@@ -1,10 +1,13 @@
 `pip install pytest-bdd 
 `
+
 ..
 `pip install pytest-playwright 
 `
+
 ..
 `pytest`
+
 
 Actual:
 ` TypeError: getattr(): attribute name must be string
